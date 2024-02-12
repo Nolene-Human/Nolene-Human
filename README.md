@@ -1,8 +1,8 @@
-<h1 align="center"> 👽 Nolene Human </h1>
--
+<h1 align="center" style="color:rgb(167, 22, 102)" > 👽 Nolene Human </h1>
 
-<h3 align="center">A creative problem solver interested in automation and security</h3>
-<p> I transform ideas into actionable strategies following the Agile project management models. Striving to always take proactive steps to keep your project in scope and on time.</p>
+<h3 align="center" >A creative problem solver interested in automation and security</h3>
+
+<p > I transform ideas into actionable strategies following the Agile project management models. Striving to always take proactive steps to keep your project in scope and on time.</p>
 
 - 🔭 I’m currently working on **Application Security**
 
