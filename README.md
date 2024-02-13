@@ -6,9 +6,14 @@
 
 - 🔭 I’m currently working on **Application Security, **,
 
-- 👯 I’m looking to collaborate on **Integrations AI and automations**
+- 👯 I’m looking to collaborate on **Integrations, AI and automations**
 
 - 📫 How to reach me **nolenehuman@hotmail.com**
+
+
+| Default  | FANG.html                          |
+| :---------- | :----------------------------------- |
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
