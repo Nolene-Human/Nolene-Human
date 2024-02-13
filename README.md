@@ -11,7 +11,7 @@
 - 📫 How to reach me **nolenehuman@hotmail.com**
 
 
-| Cybersecurity | Automation| AI|
+| Cybersecurity | Automation|
 | :---------- | :----------------------------------- |
 
 
