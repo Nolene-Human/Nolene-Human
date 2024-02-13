@@ -11,7 +11,7 @@
 - 📫 How to reach me **nolenehuman@hotmail.com**
 
 
-| Default  | FANG.html                          |
+| Cybersecurity | Automation| AI|
 | :---------- | :----------------------------------- |
 
 
