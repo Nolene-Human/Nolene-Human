@@ -4,7 +4,7 @@
 
 <p > I transform ideas into actionable strategies following the Agile project management models. Striving to always take proactive steps to keep your project in scope and on time.</p>
 
-- 🔭 I’m currently working on **Application Security, **,
+- 🔭 I’m currently working on **Application Security**
 
 - 👯 I’m looking to collaborate on **Integrations, AI and automations**
 
