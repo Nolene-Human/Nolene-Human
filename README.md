@@ -14,7 +14,7 @@
 <h2>Projects</h2>
 
 - Cybersecurity
-
+ [Secure Emailing a One-Time-Passcode QRCode,(https://github.com/Nolene-Human/secure_email)]
 - Integration
 
 - Database
