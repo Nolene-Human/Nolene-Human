@@ -15,7 +15,7 @@
 
 - Cybersecurity
 
-<a href="https://github.com/Nolene-Human/secure_email">Secure Email with OTP or Unique Random Passkey QRCode</a>
+<a href="https://github.com/Nolene-Human/secure_email">Secure Email sending OTP or Unique Random Passkey QRCode</a>
 - Integration
 
 - Database
