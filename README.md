@@ -1,7 +1,5 @@
 
-![avatar](https://github.com/Nolene-Human/Nolene-Human/assets/108449986/6a190cd6-0b6b-49b0-887f-44624fcf5fc5)
-
-<h1 align="center" > Nolene Human </h1>
+![avatar](https://github.com/Nolene-Human/Nolene-Human/assets/108449986/6a190cd6-0b6b-49b0-887f-44624fcf5fc5) <h1 align="center" > Nolene Human </h1>
 
 <h3 align="center" >A creative problem solver interested in automation and security</h3>
 
