@@ -1,8 +1,6 @@
 
 ![Black Simple Bold Professional Twitter Profile Picture (1)](https://github.com/Nolene-Human/Nolene-Human/assets/108449986/e122811f-161f-4e3a-8989-3ba37c9f37ae)
 
-<a align="left"> ![Black Simple Bold Professional Twitter Profile Picture](https://github.com/Nolene-Human/Nolene-Human/assets/108449986/4c0b1ec3-fb19-438a-a64d-ada3e7c1888b)</a>
-
 <h3 align="left" >A creative problem solver interested in automation and security</h3>
 
 <p > I transform ideas into actionable strategies following the Agile project management models. Striving to always take proactive steps to keep your project in scope and on time.</p>
