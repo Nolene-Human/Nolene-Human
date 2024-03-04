@@ -16,7 +16,9 @@
 - Cybersecurity
 
 <a href="https://github.com/Nolene-Human/secure_email">Secure Email sending OTP QRCode or Unique Random Passkey </a>
+
 - Integration / API
+  
  <a href= "https://github.com/Nolene-Human/Get-the-Weather-API"> Get Daily weather forecast</a>
 
 - Database
