@@ -15,8 +15,11 @@
 <h2>Projects</h2>
 
 - Cybersecurity
+  
+<a href="https://github.com/Nolene-Human/secure_random_key_generator"> Random Key Generator </a>
 
 <a href="https://github.com/Nolene-Human/secure_email">Secure Email sending OTP QRCode or Unique Random Passkey </a>
+
 
 - Integration / API
   
