@@ -3,18 +3,14 @@
 
 <h3 align="left" >A creative problem solver interested in automation and security</h3>
 
-<p > I transform ideas into actionable strategies following the Agile project management models. Striving to always take proactive steps to keep your project in scope and on time.</p>
+<p > I transform ideas into actionable strategies following the Agile project management models.</p>
 
 - 🔭 I’m currently working on **Application Security**
 
-- 👯 I’m looking to collaborate on **Integrations, AI and automations**
+- 👯 I’m looking to collaborate on **Integrations, AI and automation**
 
 - 📫 How to reach me **nolenehuman@hotmail.com**
 
-Projects:
-Read about my Capstone project journey:
-https://nolene-human.github.io/Capstone_Project/
---------
 
 <h2>Projects</h2>
 
@@ -24,6 +20,7 @@ https://nolene-human.github.io/Capstone_Project/
 
 <a href="https://github.com/Nolene-Human/secure_email">Secure Email sending OTP QRCode or Unique Random Passkey </a>
 
+<p> Read about my Capstone project journey:<a href="https://nolene-human.github.io/Capstone_Project/</a></p>
 
 - Integration / API
   
