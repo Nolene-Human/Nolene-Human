@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **nolenehuman@hotmail.com**
 
+Projects:
+Read about my Capstone project journey:
+https://nolene-human.github.io/Capstone_Project/
+--------
 
 <h2>Projects</h2>
 
@@ -20,8 +24,6 @@
 
 <a href="https://github.com/Nolene-Human/secure_email">Secure Email sending OTP QRCode or Unique Random Passkey </a>
 
-Read about my journey:
-https://nolene-human.github.io/Capstone_Project/
 
 - Integration / API
   
