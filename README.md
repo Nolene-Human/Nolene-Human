@@ -20,6 +20,8 @@
 
 <a href="https://github.com/Nolene-Human/secure_email">Secure Email sending OTP QRCode or Unique Random Passkey </a>
 
+<a href="https://github.com/Nolene-Human/SecureLogin">Secure Login</a>
+
 <p> Read about my Capstone project journey:<a href="https://nolene-human.github.io/Capstone_Project/">Capstone Project Notes</a></p>
 
 - Integration / API
