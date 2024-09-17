@@ -3,27 +3,15 @@
 
 <h1>NOLENE HUMAN</h1>
 <h3 align="left" >A creative problem solver transforming ideas into actionable strategies</h3>
-
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">About Me</b></td>
-    <td><b style="font-size:30px">The Journey</b></td>
- </tr>
- <tr>
-    <td>
   🔭 I’m currently working on **Application Security focusing on Identity Access Management**
 
   👯 I’m looking to collaborate on **Integrations, AI and Automation** because it is interesting
 
   📫 How to reach me **nolenehuman@hotmail.com** 
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" width=20px> [LinkedIn](https://www.linkedin.com/in/barelyhuman/) 
-    </td>
-    <td>
-    <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Career.jpg" hight=5px>
-    </td>
- </tr>
-</table>
+
+  <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Career.jpg" hight=5px>
+
 
 
 _________________
