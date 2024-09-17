@@ -15,13 +15,6 @@
 
 _________________
 
-<h1>BLOG</h1>
-
-
-**The Login**
-
-https://smart-chip-653.notion.site/The-Login-f1ad56283bf548fa9f36fdf5dc84aefc
-
 <h2>Projects</h2>
 
 - Cybersecurity
