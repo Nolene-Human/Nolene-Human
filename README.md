@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on **Application Security focusing on Identity Access Management**
 
-- 👯 I’m looking to collaborate on **Integrations, AI and Automation as a hobby**
+- 👯 I’m looking to collaborate on **Integrations, AI and Automation**
 
 <h3>Connect with me:</h3>
 📫 How to reach me **nolenehuman@hotmail.com** 
 
-[![linkedin](<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" height="20" width="20">)](https://www.linkedin.com/in/barelyhuman/)
+[![linkedin](https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp)](https://www.linkedin.com/in/barelyhuman/)
 
 _________________
 
