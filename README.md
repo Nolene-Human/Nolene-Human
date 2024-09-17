@@ -1,5 +1,5 @@
 
-<img src="![Black Simple Bold Professional Twitter Profile Picture (1)](https://github.com/Nolene-Human/Nolene-Human/assets/108449986/e122811f-161f-4e3a-8989-3ba37c9f37ae)" style=width:400px; height:300px>
+<h1>**NOLENE HUMAN**</h1>
 
 <h3 align="left" >A creative problem solver interested in automation and security</h3>
 
