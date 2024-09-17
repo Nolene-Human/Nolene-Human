@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" height=100px>
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/creative%20problem%20solver%20(3).png" height=100px>
 
 <h1>NOLENE HUMAN</h1>
 <h3 align="left" >A creative problem solver transforming ideas into actionable strategies</h3>
