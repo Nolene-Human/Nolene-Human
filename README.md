@@ -19,9 +19,14 @@
 
 📫 How to reach me **nolenehuman@hotmail.com** 
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" width=20px> [LinkedIn](https://www.linkedin.com/in/barelyhuman/)</td>
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" width=20px> [LinkedIn](https://www.linkedin.com/in/barelyhuman/)
+   </td>
     
-    <td> <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Career.jpg"> </td>
+    <td> 
+    
+    hi
+    
+    </td>
  </tr>
 </table>
 
