@@ -9,7 +9,7 @@
 <h3>Connect with me:</h3>
 📫 How to reach me **nolenehuman@hotmail.com** 
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" height="20" width="20">
+[![linkedin](<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" height="20" width="20">)](https://www.linkedin.com/in/barelyhuman/)
 
 _________________
 
