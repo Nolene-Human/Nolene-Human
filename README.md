@@ -1,5 +1,7 @@
 
-<h1>NOLENE HUMAN</h1>
+
+
+h1>NOLENE HUMAN</h1>
 <h3 align="left" >A creative problem solver transforming ideas into actionable strategies</h3>
 
 - 🔭 I’m currently working on **Application Security focusing on Identity Access Management**
@@ -7,12 +9,19 @@
 - 👯 I’m looking to collaborate on **Integrations, AI and Automation**
 
 <h3>Connect with me:</h3>
+
 📫 How to reach me **nolenehuman@hotmail.com** 
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" width=20px>[LinkedIn](https://www.linkedin.com/in/barelyhuman/)
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" width=20px> [LinkedIn](https://www.linkedin.com/in/barelyhuman/)
 
 _________________
 
+<h1>BLOG</h1>
+
+
+**The Login**
+
+https://smart-chip-653.notion.site/The-Login-f1ad56283bf548fa9f36fdf5dc84aefc
 
 <h2>Projects</h2>
 
