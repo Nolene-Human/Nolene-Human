@@ -8,7 +8,8 @@
 
 <h3>Connect with me:</h3>
 📫 How to reach me **nolenehuman@hotmail.com** 
-<p><a href="www.linkedin.com/in/barelyhuman"><img align="center" src="[https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp]" alt="www.linkedin.com/in/barelyhuman" height="20" width="20" /></a></p>
+
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png" height="20" width="20">
 
 _________________
 
