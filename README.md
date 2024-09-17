@@ -1,15 +1,17 @@
 
-<h1>**NOLENE HUMAN**</h1>
+<h1>NOLENE HUMAN</h1>
 
 <h3 align="left" >A creative problem solver interested in automation and security</h3>
 
 <p > I transform ideas into actionable strategies following the Agile project management models.</p>
 
-- 🔭 I’m currently working on **Application Security**
+- 🔭 I’m currently working on **Application Security focusing on Identity Access Management**
 
-- 👯 I’m looking to collaborate on **Integrations, AI and automation**
+- 👯 I’m looking to collaborate on **Integrations, AI and Automation as a hobby**
 
 - 📫 How to reach me **nolenehuman@hotmail.com**
+
+_________________
 
 
 <h2>Projects</h2>
