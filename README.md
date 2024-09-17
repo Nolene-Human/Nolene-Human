@@ -10,7 +10,7 @@
   📫 How to reach me **nolenehuman@hotmail.com** 
 
 
-  <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Career.jpg" hight=5px>
+  <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Career.jpg" width=50px>
 
 
 
