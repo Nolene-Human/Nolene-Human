@@ -3,14 +3,31 @@
 
 <h1>NOLENE HUMAN</h1>
 <h3 align="left" >A creative problem solver transforming ideas into actionable strategies</h3>
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>  
+      
   🔭 I’m currently working on **Application Security focusing on Identity Access Management**
 
   👯 I’m looking to collaborate on **Integrations, AI and Automation** because it is interesting
 
-  📫 How to reach me **nolenehuman@hotmail.com** 
+  📫 How to reach me **nolenehuman@hotmail.com** </td>
+  
+    <td>
+    <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Career.jpg" width=80px>
+    </td>
+ </tr>
+</table>
 
 
-  <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Career.jpg" width=50px>
+
+
+  <
 
 
 
