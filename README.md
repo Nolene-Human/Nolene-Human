@@ -1,7 +1,7 @@
 
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" height=100px>
 
-
-h1>NOLENE HUMAN</h1>
+<h1>NOLENE HUMAN</h1>
 <h3 align="left" >A creative problem solver transforming ideas into actionable strategies</h3>
 
 - 🔭 I’m currently working on **Application Security focusing on Identity Access Management**
