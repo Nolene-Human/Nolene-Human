@@ -19,16 +19,12 @@
   📫 How to reach me **nolenehuman@hotmail.com** </td>
   
     <td>
+    
     <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Career.jpg" width=80px>
+    
     </td>
  </tr>
 </table>
-
-
-
-
-  <
-
 
 
 _________________
