@@ -11,11 +11,9 @@
  </tr>
  <tr>
     <td>
-- 🔭 I’m currently working on **Application Security focusing on Identity Access Management**
+🔭 I’m currently working on **Application Security focusing on Identity Access Management**
 
-- 👯 I’m looking to collaborate on **Integrations, AI and Automation** because it is interesting
-
-<h3>Connect with me:</h3>
+👯 I’m looking to collaborate on **Integrations, AI and Automation** because it is interesting
 
 📫 How to reach me **nolenehuman@hotmail.com** 
 
@@ -35,7 +33,15 @@
     <td><b style="font-size:30px">The Journey</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td>
+  🔭 I’m currently working on **Application Security focusing on Identity Access Management**
+
+  👯 I’m looking to collaborate on **Integrations, AI and Automation** because it is interesting
+
+  📫 How to reach me **nolenehuman@hotmail.com** 
+
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" width=20px> [LinkedIn](https://www.linkedin.com/in/barelyhuman/) 
+    </td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
