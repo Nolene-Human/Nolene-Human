@@ -22,9 +22,12 @@ _________________
 
 <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/New Collection.png" height=200px width=800px>
 <a href="https://smart-chip-653.notion.site/My-Cybersecurity-Journey-102bb1e8b94d809c95c4e8add5fc12a0?pvs=4"> BLOG </a>
+
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Post 1.png" height=100px width=100px>
 _________________
 
 <h3 align="left">Languages and Tools:</h3>
+
 
 
 
