@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/creative%20problem%20solver%20(3).png" height=300px width=800px>
+
 
 <h1>NOLENE HUMAN</h1>
 <h3 align="left" >A creative problem solver transforming ideas into actionable strategies</h3>
@@ -26,7 +26,6 @@ _________________
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/New Collection.png" height=300px width=800px>
 
 
