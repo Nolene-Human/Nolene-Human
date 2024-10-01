@@ -13,19 +13,19 @@
 <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" width=20px> [LinkedIn](https://www.linkedin.com/in/barelyhuman/)
 
 
-<a href="https://smart-chip-653.notion.site/My-Cybersecurity-Journey-102bb1e8b94d809c95c4e8add5fc12a0?pvs=4"> BLOG </a>
+
+
 
 _________________
 
 <h2>Projects</h2>
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/creative%20problem%20solver%20(3).png" height=300px width=800px>
 
-
-
-</p>
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/New Collection.png" height=200px width=800px>
+<a href="https://smart-chip-653.notion.site/My-Cybersecurity-Journey-102bb1e8b94d809c95c4e8add5fc12a0?pvs=4"> BLOG </a>
+_________________
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/New Collection.png" height=300px width=800px>
+
 
 
