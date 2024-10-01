@@ -13,6 +13,8 @@
 <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.webp" width=20px> [LinkedIn](https://www.linkedin.com/in/barelyhuman/)
 
 
+<a href="https://smart-chip-653.notion.site/My-Cybersecurity-Journey-102bb1e8b94d809c95c4e8add5fc12a0?pvs=4"> BLOG </a>
+
 _________________
 
 <h2>Projects</h2>
