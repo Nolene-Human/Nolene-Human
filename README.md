@@ -6,9 +6,9 @@ An avid learner and enthusiast in the field of cybersecurity. This repository is
 
 Feel free to explore, contribute, or simply connect. Your feedback and collaboration are always welcome.
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/mail.png" height=20px width=10px>: nolenehuman@hotmail.com
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/mail.png" height=10px width=20px> : nolenehuman@hotmail.com
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin.png" height=20px width=20px>:www.linkedin.com/in/barelyhuman
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin.png" height=20px width=20px> :www.linkedin.com/in/barelyhuman
 
 Stay secure, and happy coding!
 
