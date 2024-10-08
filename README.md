@@ -20,9 +20,9 @@ _________________
 
 <h2>Projects</h2>
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/Screenshot_2-10-2024_184047_www.canva.com.png" height=200px width=800px>
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/banner.png" height=200px width=800px>
 
-[<img src="button 1.png">](https://smart-chip-653.notion.site/The-Journey-of-Developing-and-Testing-a-Secure-Login-Page-From-Concept-to-Deployment-eac84e72b4a644d4b25ad935a952ef02?pvs=4) | [<img src="button 2.png">](https://smart-chip-653.notion.site/The-Journey-of-Developing-and-Testing-a-Secure-Login-Page-From-Concept-to-Deployment-eac84e72b4a644d4b25ad935a952ef02?pvs=4) | [<img src="button 3.png">](https://smart-chip-653.notion.site/The-Journey-of-Developing-and-Testing-a-Secure-Login-Page-From-Concept-to-Deployment-eac84e72b4a644d4b25ad935a952ef02?pvs=4)
+[<img src="button 4.png">](https://smart-chip-653.notion.site/The-Journey-of-Developing-and-Testing-a-Secure-Login-Page-From-Concept-to-Deployment-eac84e72b4a644d4b25ad935a952ef02?pvs=4) | [<img src="button 2.png">](https://smart-chip-653.notion.site/The-Journey-of-Developing-and-Testing-a-Secure-Login-Page-From-Concept-to-Deployment-eac84e72b4a644d4b25ad935a952ef02?pvs=4) | [<img src="button 3.png">](https://smart-chip-653.notion.site/The-Journey-of-Developing-and-Testing-a-Secure-Login-Page-From-Concept-to-Deployment-eac84e72b4a644d4b25ad935a952ef02?pvs=4)
 
 
 _________________
