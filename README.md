@@ -17,11 +17,15 @@ _________________
 <h3>Projects</h>
 
 <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/banner.png" height=300px width=1000px>
+
 <!-- blog links -->
+
 [<img src="150 65.png">](https://smart-chip-653.notion.site/Unlocking-Cybersecurity-A-Dive-into-CompTIA-Security-eac84e72b4a644d4b25ad935a952ef02) | [<img src="button 5.png">](https://smart-chip-653.notion.site/Security-through-Design-10dbb1e8b94d80be91d2ddc517cc5417)
 
 <!-- blog code links -->
+--------------------------------
 
+[<img src="badge.png">](https://smart-chip-653.notion.site/Unlocking-Cybersecurity-A-Dive-into-CompTIA-Security-eac84e72b4a644d4b25ad935a952ef02) | [<img src="diagram.png">](https://smart-chip-653.notion.site/Security-through-Design-10dbb1e8b94d80be91d2ddc517cc5417)
 
 _________________
 
