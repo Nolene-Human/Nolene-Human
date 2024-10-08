@@ -27,7 +27,7 @@ _________________
 
 --------------------------------
 
-[<img src="badge.png">] | [<img src="diagram.png">]
+<img src="badge.png"> | <img src="diagram.png">
 
 
 _________________
