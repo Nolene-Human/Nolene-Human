@@ -23,8 +23,7 @@ _________________
 
 <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/banner.png" height=200px width=800px>
 
-[<img src="button 4.png">](https://smart-chip-653.notion.site/The-Journey-of-Developing-and-Testing-a-Secure-Login-Page-From-Concept-to-Deployment-eac84e72b4a644d4b25ad935a952ef02?pvs=4) | [<img src="button 2.png">](https://smart-chip-653.notion.site/The-Journey-of-Developing-and-Testing-a-Secure-Login-Page-From-Concept-to-Deployment-eac84e72b4a644d4b25ad935a952ef02?pvs=4) | [<img src="button 3.png">](https://smart-chip-653.notion.site/The-Journey-of-Developing-and-Testing-a-Secure-Login-Page-From-Concept-to-Deployment-eac84e72b4a644d4b25ad935a952ef02?pvs=4)
-
+[<img src="150 65.png">](https://smart-chip-653.notion.site/Unlocking-Cybersecurity-A-Dive-into-CompTIA-Security-eac84e72b4a644d4b25ad935a952ef02) | [<img src="button 5.png">](https://smart-chip-653.notion.site/Security-through-Design-10dbb1e8b94d80be91d2ddc517cc5417)
 
 _________________
 
