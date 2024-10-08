@@ -1,14 +1,14 @@
 
 <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/creative%20problem%20solver%20(3).png" height=300px width=1000px>
 
-<h3>Hello! I'm Nolene Human, </h3>
+<h3>Hello! I'm Nolene, </h3>
 An avid learner and enthusiast in the field of cybersecurity. This repository is a showcase of my projects, explorations, and insights related to CompTIA Security+ and beyond. Each project is a step towards mastering the art and understanding the intricate nuances of cyber threats and defenses.
 
 Feel free to explore, contribute, or simply connect. Your feedback and collaboration are always welcome.
 
 <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/mail.png" height=15px width=20px> : nolenehuman@hotmail.com
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin.png" height=20px width=20px> :www.linkedin.com/in/barelyhuman
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin.png" height=20px width=20px> : www.linkedin.com/in/barelyhuman
 
 Stay secure, and happy coding!
 
