@@ -35,7 +35,8 @@ _________________
 | Languages |  | Tools | 
 | :---: | :---: | :---: | 
 | Python | |Figma |
-|  | |Microsoft Threat Model |
+|  | |Microsoft Threat Modelling Tool|
+|  | |Visio|
 
 
 
