@@ -30,10 +30,12 @@ _________________
 <!-- <img src="badge.png"> | <img src="diagram.png"> | ...coming soon ... -->
 
 
-_________________
-
 <h3>Languages and Tools:</h3>
-Python
+
+| Languages | Tools |
+|Python | Figma |
+Python                                                  Figma
+                                           
 
 
 
