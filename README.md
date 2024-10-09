@@ -32,18 +32,12 @@ _________________
 
 <h3>Languages and Tools:</h3>
 
-| Attempt | #1    | #2    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |
+| Languages |  | Tools | 
+| :---: | :---: | :---: | 
+| Python | |Figma |
 
-| Languages | Tools |
-|Python | Figma |
-Python                                                  Figma
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
                                            
 
 
