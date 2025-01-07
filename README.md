@@ -8,7 +8,7 @@ Feel free to explore, contribute, or simply connect. Your feedback and collabora
 
 <img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/mail.png" height=15px width=20px> : nolenehuman@hotmail.com
 
-<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin.png" height=20px width=20px> : www.linkedin.com/in/barelyhuman
+<img src="https://github.com/Nolene-Human/Nolene-Human/blob/Working_Code/linkedin.png" height=20px width=20px> : www.linkedin.com/in/nolenehuman
 
 Stay secure, and happy coding!
 
